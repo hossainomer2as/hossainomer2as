@@ -1,32 +1,28 @@
-<h1 align="center">Hi 👋, I'm TAKVIR HOSSAIN</h1>
-<h3 align="center">A passionate Web Developer From Bangladesh</h3>
+### Hi there 👋, My Name Is Takvir
+#### Professional Web Developer
+![Professional Web Developer](https://www.upwork.com/profile-portraits/c1hn2b2YcFkxUF1HNUKt60CRjjvwjf1V6g1EE-xdbm-RkFRzn2MAIAQxsjCEmBs2jd)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hossainomer2as&label=Profile%20views&color=0e75b6&style=flat" alt="hossainomer2as" /> </p>
+Hello😃
+I am a Talented and expert Frontend developer and WordPress Expert I have 4 Years of Coding Experience with working in Private Software Company I Have very good experience in WordPress WordPress Theme customization WordPress Theme Development also in Frontend development like as PSD to HTML XD to HTML Sketch to HTML Etc.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossainomer2as" alt="hossainomer2as" /></a> </p>
+Skills: JS / HTML / CSS / PHP / WORDPRESS
 
-- 🔭 I’m currently working on **youtube**
+- 🔭 I’m currently working on Fiverr 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
 
-- 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **Github**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hossainomer2as)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TakvirHossain1)  
 
-- 💬 Ask me about **Web Development**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 📫 How to reach me **hossainomer2as@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=hossainomer2as)](https://github.com/ryo-ma/github-profile-trophy)
 
-- ⚡ Fun fact **I am a Funny Boy**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossainomer2as)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/takvirhossain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takvirhossain1" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hossainomer2as&show_icons=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hossainomer2as)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainomer2as&show_icons=true&locale=en&layout=compact" alt="hossainomer2as" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossainomer2as&show_icons=true&locale=en" alt="hossainomer2as" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossainomer2as&" alt="hossainomer2as" /></p>
+![Profile views](https://gpvc.arturio.dev/hossainomer2as)  
